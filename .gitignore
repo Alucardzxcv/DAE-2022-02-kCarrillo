@@ -137,7 +137,7 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
+myvenv/
 ENV/
 env.bak/
 venv.bak/
@@ -174,5 +174,5 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
-myvenv/
+
 pruebaignore.txt
